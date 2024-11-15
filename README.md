@@ -1,2 +1,3 @@
 Nombre de los compañeros
-Miguel Blanco
+David Santaolalla Dueñas
+David Rey Romero
